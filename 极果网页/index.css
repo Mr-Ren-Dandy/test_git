@@ -610,13 +610,14 @@ footer{
     color: #666;
 }
 .dibu ul:nth-of-type(3){
-    width: 112px;
+    width: 114px;
     height: 194px;
     /* border: 1px solid red; */
     position: absolute;
     top: 87px;
     left: 512px;
     box-sizing: border-box;
+    font-size: 12px;
 }
 .dibu h3:nth-of-type(3){
     position: absolute;
