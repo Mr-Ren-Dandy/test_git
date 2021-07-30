@@ -17,8 +17,9 @@ ul{
     list-style: none;
 }
 .box{
-    width: 100vw;
+    width: 1510px;
     height: 2685px;
+    margin:0 auto;
     background-color: #F7F7F7;
 }
 /* 头部 */
